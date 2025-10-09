@@ -1,0 +1,13 @@
+# Visual Studio 自动生成文件
+.vs/
+
+# 编译输出
+bin/
+obj/
+
+# 用户设置
+*.user
+*.suo
+
+# 临时文件
+*.tmp
