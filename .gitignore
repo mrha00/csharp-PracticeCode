@@ -5,9 +5,16 @@
 bin/
 obj/
 
-# 用户设置
+# 用户本地设置
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
 
 # 临时文件
 *.tmp
+
+# 之后，每次你添加新的 .cs 文件或者修改现有文件，只需要：
+# git add .
+# git commit -m "更新说明"
+# git push
