@@ -46,6 +46,49 @@
             // 调用虚方法 Eat
             cat.Eat();
 
+            Console.WriteLine("-------------------------------------------------------------------------\n");
+
+            // 创建一个Bird对象
+            Bird bird = new Bird();
+
+            // 设置属性
+            bird.Name = "布谷鸟";
+            bird.Age = 1;
+
+            // 输出基本信息
+            Console.WriteLine($"名字：{bird.Name}");
+            Console.WriteLine($"年龄：{bird.Age}");
+
+            // 调用虚方法 MakeSound
+            Console.WriteLine($"叫声：{bird.MakeSound()}");
+
+            // 调用抽象方法
+            bird.Sleep();
+
+            // 调用虚方法 Eat
+            bird.Eat();
+
+            Console.WriteLine("-------------------------------------------------------------------------\n");
+
+
+            // 创建动物园管理员
+            ZooManager zooManager = new ZooManager();
+
+            // 创建一些动物
+            dog = new Dog { Name = "大黄", Age = 3};
+            cat = new Cat { Name = "橘猫", Age = 2 };
+            bird = new Bird { Name = "布谷鸟", Age = 1 };
+
+            // 添加到动物园
+            zooManager.AddAnimal(dog);
+            zooManager.AddAnimal(cat);
+            zooManager.AddAnimal(bird);
+
+            // 管理动物
+            zooManager.ManageAnimals();
+
+
+
 
 
             Console.ReadKey();
