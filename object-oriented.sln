@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "继承and多态", "继承an
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "继承and多态-图形计算系统", "继承and多态-图形计算系统\继承and多态-图形计算系统.csproj", "{E58FD411-A6D2-49E2-B73E-533853B24753}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口与抽象类4-6", "接口与抽象类4-6\接口与抽象类4-6.csproj", "{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E58FD411-A6D2-49E2-B73E-533853B24753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E58FD411-A6D2-49E2-B73E-533853B24753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E58FD411-A6D2-49E2-B73E-533853B24753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
