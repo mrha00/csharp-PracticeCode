@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "继承and多态-图形计�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口与抽象类4-6", "接口与抽象类4-6\接口与抽象类4-6.csproj", "{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习6-支付系统设计", "练习6-支付系统设计\练习6-支付系统设计.csproj", "{B5943397-4A9D-47A4-BA54-917058AFDEE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC53CAC1-AFB6-4004-998D-B72B71CFA9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5943397-4A9D-47A4-BA54-917058AFDEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5943397-4A9D-47A4-BA54-917058AFDEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5943397-4A9D-47A4-BA54-917058AFDEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5943397-4A9D-47A4-BA54-917058AFDEE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
