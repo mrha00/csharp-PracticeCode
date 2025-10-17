@@ -18,3 +18,5 @@ obj/
 # git add .
 # git commit -m "更新说明"
 # git push
+# 修改最后一次提交说明
+# git commit --amend -m "day6: 支付系统设计练习"
