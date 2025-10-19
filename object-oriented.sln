@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习6-支付系统设计"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "银行账户异常处理", "银行账户异常处理\银行账户异常处理.csproj", "{AC327270-54DE-4CF3-B4AD-F94EA293BAC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习8-文件操作异常处理", "文件操作异常处理\练习8-文件操作异常处理.csproj", "{6CDF2967-59DB-4DC3-AC44-C85FAF6EB8EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AC327270-54DE-4CF3-B4AD-F94EA293BAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC327270-54DE-4CF3-B4AD-F94EA293BAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC327270-54DE-4CF3-B4AD-F94EA293BAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDF2967-59DB-4DC3-AC44-C85FAF6EB8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDF2967-59DB-4DC3-AC44-C85FAF6EB8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDF2967-59DB-4DC3-AC44-C85FAF6EB8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDF2967-59DB-4DC3-AC44-C85FAF6EB8EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
